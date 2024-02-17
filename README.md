@@ -39,16 +39,16 @@ This project stands on the shoulders of the following individuals and sources, t
 ### Reading Input:
 
 ```java
-int n = StdIO.scanInt();
-String word = StdIO.scanWord();
-double value = StdIO.scanDouble();
+int n = scanInt();
+String word = scanWord();
+double value = scanDouble();
 ```
 
 ### Printing Output:
 
 ```java
-StdIO.print("Hello, ");
-StdIO.println("World!");
+print("Hello, ");
+println("World!");
 ```
 
 ## Usage
